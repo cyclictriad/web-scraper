@@ -1,0 +1,2768 @@
+[
+    {
+        "name": "Technological and Engineering",
+        "keywords": [
+            "Technology",
+            "Engineering",
+            "Innovation",
+            "Programming",
+            "Software Development",
+            "Network Security",
+            "Construction",
+            "Design"
+        ],
+        "subjects": [
+            {
+                "name": "Architecture",
+                "keywords": [
+                    "Building Design",
+                    "Urban Planning",
+                    "Structural Engineering",
+                    "CAD"
+                ]
+            },
+            {
+                "name": "Biotechnology",
+                "keywords": [
+                    "Genetic Engineering",
+                    "Bioinformatics",
+                    "Pharmaceuticals",
+                    "Agriculture"
+                ]
+            },
+            {
+                "name": "Agile",
+                "keywords": [
+                    "Project Management",
+                    "Scrum",
+                    "Kanban",
+                    "Lean Development"
+                ]
+            },
+            {
+                "name": "AWS",
+                "keywords": [
+                    "Cloud Computing",
+                    "EC2",
+                    "S3",
+                    "DevOps"
+                ]
+            },
+            {
+                "name": "Computer Programming",
+                "keywords": [
+                    "Coding",
+                    "Software Development",
+                    "Algorithms",
+                    "Problem Solving"
+                ]
+            },
+            {
+                "name": "Cryptography",
+                "keywords": [
+                    "Encryption",
+                    "Cybersecurity",
+                    "Data Protection",
+                    "Algorithms"
+                ]
+            },
+            {
+                "name": "Git Commands",
+                "keywords": [
+                    "Version Control",
+                    "Repositories",
+                    "Branching",
+                    "Merging"
+                ]
+            },
+            {
+                "name": "HTML",
+                "keywords": [
+                    "Web Development",
+                    "Markup Language",
+                    "Frontend Design",
+                    "Hypertext"
+                ]
+            },
+            {
+                "name": "Java",
+                "keywords": [
+                    "Object-Oriented Programming",
+                    "Software Development",
+                    "Backend Systems"
+                ]
+            },
+            {
+                "name": "Javascript",
+                "keywords": [
+                    "Frontend Development",
+                    "Web Applications",
+                    "ES6",
+                    "Frameworks"
+                ]
+            },
+            {
+                "name": "Kubernetes",
+                "keywords": [
+                    "Container Orchestration",
+                    "Cloud Computing",
+                    "DevOps"
+                ]
+            },
+            {
+                "name": "Linux",
+                "keywords": [
+                    "Operating Systems",
+                    "Command Line",
+                    "Kernel",
+                    "Networking"
+                ]
+            },
+            {
+                "name": "Mac OS",
+                "keywords": [
+                    "Apple Ecosystem",
+                    "Operating Systems",
+                    "User Interface"
+                ]
+            },
+            {
+                "name": "Python",
+                "keywords": [
+                    "Scripting",
+                    "Data Science",
+                    "Machine Learning",
+                    "Web Development"
+                ]
+            },
+            {
+                "name": "React",
+                "keywords": [
+                    "Frontend Framework",
+                    "Component-Based Design",
+                    "UI Development"
+                ]
+            },
+            {
+                "name": "Ruby on Rails",
+                "keywords": [
+                    "Web Framework",
+                    "Backend Development",
+                    "Full Stack Applications"
+                ]
+            },
+            {
+                "name": "Swift",
+                "keywords": [
+                    "iOS Development",
+                    "Mobile Apps",
+                    "Apple Ecosystem"
+                ]
+            },
+            {
+                "name": "Algorithms",
+                "keywords": [
+                    "Problem Solving",
+                    "Optimization",
+                    "Data Structures"
+                ]
+            },
+            {
+                "name": "Artificial Intelligence",
+                "keywords": [
+                    "Machine Learning",
+                    "Neural Networks",
+                    "Automation"
+                ]
+            },
+            {
+                "name": "Cybersecurity",
+                "keywords": [
+                    "Network Security",
+                    "Threat Analysis",
+                    "Data Protection"
+                ]
+            },
+            {
+                "name": "Data Science",
+                "keywords": [
+                    "Data Analysis",
+                    "Machine Learning",
+                    "Big Data"
+                ]
+            },
+            {
+                "name": "Robotics",
+                "keywords": [
+                    "Automation",
+                    "Mechanical Systems",
+                    "Control Systems"
+                ]
+            },
+            {
+                "name": "Civil Engineering",
+                "keywords": [
+                    "Construction",
+                    "Infrastructure",
+                    "Urban Development"
+                ]
+            },
+            {
+                "name": "Electrical Engineering",
+                "keywords": [
+                    "Circuits",
+                    "Power Systems",
+                    "Electronics"
+                ]
+            },
+            {
+                "name": "Mechanical Engineering",
+                "keywords": [
+                    "Thermodynamics",
+                    "Mechanics",
+                    "Materials Science"
+                ]
+            },
+            {
+                "name": "Graphic Design",
+                "keywords": [
+                    "Design Tools",
+                    "Visual Communication",
+                    "UI/UX"
+                ]
+            },
+            {
+                "name": "Networking",
+                "keywords": [
+                    "LAN",
+                    "WAN",
+                    "Routing",
+                    "Protocols"
+                ]
+            },
+            {
+                "name": "Software Development",
+                "keywords": [
+                    "Software Lifecycle",
+                    "Coding",
+                    "Testing",
+                    "Agile"
+                ]
+            },
+            {
+                "name": "Information Technology",
+                "keywords": [
+                    "Systems Management",
+                    "Cloud Computing",
+                    "Security"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Common Core",
+        "keywords": [
+            "Education",
+            "K-12",
+            "Curriculum Standards"
+        ],
+        "subjects": [
+            "Mathematics",
+            "English",
+            "Science",
+            "Humanities & Social Studies"
+        ]
+    },
+    {
+        "name": "Computers",
+        "keywords": [
+            "Technology",
+            "Computing",
+            "IT"
+        ],
+        "subjects": [
+            "Technology & Engineering",
+            "Programming",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Education",
+        "keywords": [
+            "Learning",
+            "Teaching",
+            "Schools"
+        ],
+        "subjects": [
+            "Common Core",
+            "Professional Certifications",
+            "Exam Preparation"
+        ]
+    },
+    {
+        "name": "Standardized Tests",
+        "keywords": [
+            "Exams",
+            "Certifications",
+            "Test Preparation",
+            "Professional Development",
+            "Academic Tests",
+            "Licensure",
+            "Career Advancement",
+            "Skills Assessment"
+        ],
+        "subjects": [
+            {
+                "name": "Bar Exam",
+                "keywords": [
+                    "Law",
+                    "Legal Practice",
+                    "Licensure",
+                    "Attorney Certification"
+                ]
+            },
+            {
+                "name": "USMLE Step 1",
+                "keywords": [
+                    "Medicine",
+                    "Medical Licensing",
+                    "Clinical Knowledge"
+                ]
+            },
+            {
+                "name": "Praxis Elem. Ed. Social Studies 5004",
+                "keywords": [
+                    "Teaching",
+                    "Education",
+                    "Social Studies",
+                    "Licensure"
+                ]
+            },
+            {
+                "name": "CompTIA Security+",
+                "keywords": [
+                    "Cybersecurity",
+                    "IT Certification",
+                    "Network Security"
+                ]
+            },
+            {
+                "name": "IELTS",
+                "keywords": [
+                    "English Proficiency",
+                    "Language Test",
+                    "International Students"
+                ]
+            },
+            {
+                "name": "CFA",
+                "keywords": [
+                    "Finance",
+                    "Investment Analysis",
+                    "Financial Certification"
+                ]
+            },
+            {
+                "name": "CPA",
+                "keywords": [
+                    "Accounting",
+                    "Finance",
+                    "Taxation",
+                    "Professional Licensure"
+                ]
+            },
+            {
+                "name": "PMP",
+                "keywords": [
+                    "Project Management",
+                    "Professional Certification",
+                    "PMI Standards"
+                ]
+            },
+            {
+                "name": "ASVAB",
+                "keywords": [
+                    "Military",
+                    "Aptitude Test",
+                    "Enlistment"
+                ]
+            },
+            {
+                "name": "TOEFL",
+                "keywords": [
+                    "English Proficiency",
+                    "Academic Test",
+                    "Language Skills"
+                ]
+            },
+            {
+                "name": "QuickBooks Certification",
+                "keywords": [
+                    "Accounting",
+                    "Finance",
+                    "Bookkeeping",
+                    "Software"
+                ]
+            },
+            {
+                "name": "CompTIA A+",
+                "keywords": [
+                    "IT Fundamentals",
+                    "Hardware",
+                    "Software",
+                    "Troubleshooting"
+                ]
+            },
+            {
+                "name": "NBDE",
+                "keywords": [
+                    "Dentistry",
+                    "Medical Licensing",
+                    "Dental Boards"
+                ]
+            },
+            {
+                "name": "SHRM",
+                "keywords": [
+                    "Human Resources",
+                    "Management",
+                    "HR Certification"
+                ]
+            },
+            {
+                "name": "AWS S3 Certification",
+                "keywords": [
+                    "Cloud Computing",
+                    "AWS",
+                    "Storage Solutions",
+                    "Technology"
+                ]
+            },
+            {
+                "name": "Wine & Spirits Certification",
+                "keywords": [
+                    "Beverages",
+                    "Sommelier",
+                    "Hospitality Industry"
+                ]
+            },
+            {
+                "name": "Drivers Ed California",
+                "keywords": [
+                    "Driving Test",
+                    "California DMV",
+                    "Learner's Permit"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Languages",
+        "subjects": [
+            {
+                "name": "Arabic",
+                "keywords": [
+                    "Middle Eastern",
+                    "Arabic Alphabet",
+                    "Modern Standard Arabic",
+                    "Dialects",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Chinese",
+                "keywords": [
+                    "Mandarin",
+                    "Simplified Chinese",
+                    "Traditional Chinese",
+                    "Chinese Characters",
+                    "HSK Exam"
+                ]
+            },
+            {
+                "name": "French",
+                "keywords": [
+                    "French Grammar",
+                    "French Vocabulary",
+                    "Pronunciation",
+                    "Francophone Countries",
+                    "Tenses"
+                ]
+            },
+            {
+                "name": "German",
+                "keywords": [
+                    "German Grammar",
+                    "German Vocabulary",
+                    "Pronunciation",
+                    "German Culture",
+                    "Verbs"
+                ]
+            },
+            {
+                "name": "Hebrew",
+                "keywords": [
+                    "Modern Hebrew",
+                    "Biblical Hebrew",
+                    "Hebrew Alphabet",
+                    "Grammar",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Italian",
+                "keywords": [
+                    "Italian Grammar",
+                    "Italian Vocabulary",
+                    "Pronunciation",
+                    "Italian Culture",
+                    "Tenses"
+                ]
+            },
+            {
+                "name": "Japanese",
+                "keywords": [
+                    "Kanji",
+                    "Hiragana",
+                    "Katakana",
+                    "Japanese Grammar",
+                    "Vocabulary",
+                    "Verbs"
+                ]
+            },
+            {
+                "name": "Japanese - General",
+                "keywords": [
+                    "General Japanese",
+                    "Culture",
+                    "Conversations",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Japanese Grammar",
+                "keywords": [
+                    "Sentence Structure",
+                    "Particles",
+                    "Tenses",
+                    "Syntax",
+                    "Grammar Rules"
+                ]
+            },
+            {
+                "name": "Japanese Hiragana",
+                "keywords": [
+                    "Hiragana Characters",
+                    "Phonetics",
+                    "Writing System",
+                    "Japanese Alphabet"
+                ]
+            },
+            {
+                "name": "Japanese Kanji",
+                "keywords": [
+                    "Kanji Characters",
+                    "Chinese Characters",
+                    "Writing System",
+                    "Japanese Vocabulary"
+                ]
+            },
+            {
+                "name": "Japanese Katakana",
+                "keywords": [
+                    "Katakana Characters",
+                    "Writing System",
+                    "Loanwords",
+                    "Phonetic Script"
+                ]
+            },
+            {
+                "name": "Japanese Radicals",
+                "keywords": [
+                    "Kanji Components",
+                    "Radicals",
+                    "Character Learning",
+                    "Writing System"
+                ]
+            },
+            {
+                "name": "Japanese Sentences",
+                "keywords": [
+                    "Sentence Structure",
+                    "Particles",
+                    "Japanese Syntax",
+                    "Phrase Construction"
+                ]
+            },
+            {
+                "name": "Japanese Verbs",
+                "keywords": [
+                    "Verb Conjugation",
+                    "Verb Forms",
+                    "Tenses",
+                    "Usage"
+                ]
+            },
+            {
+                "name": "Japanese Vocabulary",
+                "keywords": [
+                    "Word List",
+                    "Kanji Vocabulary",
+                    "Hiragana Vocabulary",
+                    "Common Phrases"
+                ]
+            },
+            {
+                "name": "Korean",
+                "keywords": [
+                    "Hangul",
+                    "Korean Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Korean Culture"
+                ]
+            },
+            {
+                "name": "Linguistics",
+                "keywords": [
+                    "Phonetics",
+                    "Syntax",
+                    "Semantics",
+                    "Language Families",
+                    "Morphology"
+                ]
+            },
+            {
+                "name": "Afrikaans",
+                "keywords": [
+                    "Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "South African Language",
+                    "Verbs"
+                ]
+            },
+            {
+                "name": "Albanian",
+                "keywords": [
+                    "Albanian Grammar",
+                    "Vocabulary",
+                    "Tenses",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Amharic",
+                "keywords": [
+                    "Ethiopian Language",
+                    "Alphabet",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Arabic Alphabet",
+                "keywords": [
+                    "Arabic Script",
+                    "Writing System",
+                    "Calligraphy",
+                    "Phonetics"
+                ]
+            },
+            {
+                "name": "Armenian",
+                "keywords": [
+                    "Armenian Script",
+                    "Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Azerbaijani",
+                "keywords": [
+                    "Azerbaijan Language",
+                    "Grammar",
+                    "Vocabulary",
+                    "Turkic Languages"
+                ]
+            },
+            {
+                "name": "Biblical Hebrew",
+                "keywords": [
+                    "Old Testament",
+                    "Ancient Hebrew",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Bosnian",
+                "keywords": [
+                    "Grammar",
+                    "Bosnian Vocabulary",
+                    "Balkan Language",
+                    "Serbo-Croatian"
+                ]
+            },
+            {
+                "name": "Bulgarian",
+                "keywords": [
+                    "Bulgarian Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Slavic Language"
+                ]
+            },
+            {
+                "name": "Burmese",
+                "keywords": [
+                    "Myanmar Language",
+                    "Alphabet",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Cantonese",
+                "keywords": [
+                    "Cantonese Grammar",
+                    "Chinese Dialect",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Catalan",
+                "keywords": [
+                    "Spanish Dialect",
+                    "Grammar",
+                    "Pronunciation",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Cebuano",
+                "keywords": [
+                    "Visayan Language",
+                    "Philippines",
+                    "Vocabulary",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Chichewa",
+                "keywords": [
+                    "Malawi Language",
+                    "Grammar",
+                    "Vocabulary",
+                    "Niger-Congo"
+                ]
+            },
+            {
+                "name": "Croatian",
+                "keywords": [
+                    "Croatian Grammar",
+                    "Vocabulary",
+                    "Slavic Language",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Czech",
+                "keywords": [
+                    "Czech Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Slavic Language"
+                ]
+            },
+            {
+                "name": "Danish",
+                "keywords": [
+                    "Danish Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Scandinavian Language"
+                ]
+            },
+            {
+                "name": "Darija",
+                "keywords": [
+                    "Moroccan Arabic",
+                    "Colloquial Arabic",
+                    "Arabic Dialect"
+                ]
+            },
+            {
+                "name": "Dutch",
+                "keywords": [
+                    "Dutch Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Dutch Culture"
+                ]
+            },
+            {
+                "name": "Egyptian Arabic",
+                "keywords": [
+                    "Cairo Dialect",
+                    "Arabic Grammar",
+                    "Colloquial Arabic",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "JLPT N5",
+                "keywords": [
+                    "Japanese Language Proficiency Test",
+                    "Basic Japanese",
+                    "N5 Level",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "ESL",
+                "keywords": [
+                    "English as a Second Language",
+                    "English Grammar",
+                    "English Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Esperanto",
+                "keywords": [
+                    "Constructed Language",
+                    "International Language",
+                    "Vocabulary",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Estonian",
+                "keywords": [
+                    "Estonian Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Baltic Language"
+                ]
+            },
+            {
+                "name": "Farsi",
+                "keywords": [
+                    "Persian Language",
+                    "Grammar",
+                    "Vocabulary",
+                    "Iranian Language"
+                ]
+            },
+            {
+                "name": "Filipino",
+                "keywords": [
+                    "Tagalog",
+                    "Filipino Grammar",
+                    "Vocabulary",
+                    "Philippines"
+                ]
+            },
+            {
+                "name": "Finnish",
+                "keywords": [
+                    "Finnish Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Uralic Language"
+                ]
+            },
+            {
+                "name": "Gaelic",
+                "keywords": [
+                    "Scottish Gaelic",
+                    "Irish Gaelic",
+                    "Celtic Language",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Georgian",
+                "keywords": [
+                    "Georgian Script",
+                    "Grammar",
+                    "Vocabulary",
+                    "Caucasian Language"
+                ]
+            },
+            {
+                "name": "Greek",
+                "keywords": [
+                    "Modern Greek",
+                    "Ancient Greek",
+                    "Greek Alphabet",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Greek Alphabet",
+                "keywords": [
+                    "Greek Letters",
+                    "Alphabet",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Haitian Creole",
+                "keywords": [
+                    "Haitian Language",
+                    "Creole Grammar",
+                    "French-based Creole"
+                ]
+            },
+            {
+                "name": "Hangul",
+                "keywords": [
+                    "Korean Script",
+                    "Korean Alphabet",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Hawaiian",
+                "keywords": [
+                    "Hawaiian Grammar",
+                    "Vocabulary",
+                    "Polynesian Language"
+                ]
+            },
+            {
+                "name": "Hindi",
+                "keywords": [
+                    "Devanagari",
+                    "Grammar",
+                    "Vocabulary",
+                    "India"
+                ]
+            },
+            {
+                "name": "Hmong",
+                "keywords": [
+                    "Hmong Language",
+                    "Grammar",
+                    "Vocabulary",
+                    "Southeast Asia"
+                ]
+            },
+            {
+                "name": "HSK Exam",
+                "keywords": [
+                    "Chinese Proficiency",
+                    "Mandarin Exam",
+                    "HSK Levels",
+                    "Chinese Vocabulary"
+                ]
+            },
+            {
+                "name": "Hungarian",
+                "keywords": [
+                    "Hungarian Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Uralic Language"
+                ]
+            },
+            {
+                "name": "Icelandic",
+                "keywords": [
+                    "Icelandic Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Norse Language"
+                ]
+            },
+            {
+                "name": "Indonesian",
+                "keywords": [
+                    "Bahasa Indonesia",
+                    "Indonesian Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Irish",
+                "keywords": [
+                    "Gaelic",
+                    "Irish Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Javanese",
+                "keywords": [
+                    "Javanese Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Kannada",
+                "keywords": [
+                    "Kannada Script",
+                    "Grammar",
+                    "Vocabulary",
+                    "South Indian Language"
+                ]
+            },
+            {
+                "name": "Khmer",
+                "keywords": [
+                    "Cambodian Language",
+                    "Khmer Script",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Korean Alphabet",
+                "keywords": [
+                    "Hangul",
+                    "Korean Letters",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Korean Grammar",
+                "keywords": [
+                    "Sentence Structure",
+                    "Korean Syntax",
+                    "Particles"
+                ]
+            },
+            {
+                "name": "Kurdish",
+                "keywords": [
+                    "Kurdish Dialects",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Lao",
+                "keywords": [
+                    "Lao Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Latin",
+                "keywords": [
+                    "Classical Latin",
+                    "Roman Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Latvian",
+                "keywords": [
+                    "Latvian Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Lithuanian",
+                "keywords": [
+                    "Lithuanian Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Luxembourgish",
+                "keywords": [
+                    "Luxembourg Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Macedonian",
+                "keywords": [
+                    "Macedonian Grammar",
+                    "Slavic Language",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Malagasy",
+                "keywords": [
+                    "Madagascar Language",
+                    "Vocabulary",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Malay",
+                "keywords": [
+                    "Malay Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Maltese",
+                "keywords": [
+                    "Maltese Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Maori",
+                "keywords": [
+                    "Maori Language",
+                    "New Zealand",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Medical Spanish",
+                "keywords": [
+                    "Spanish for Healthcare",
+                    "Medical Terminology",
+                    "Spanish Vocabulary"
+                ]
+            },
+            {
+                "name": "Modern Greek",
+                "keywords": [
+                    "Contemporary Greek",
+                    "Greek Grammar",
+                    "Greek Vocabulary"
+                ]
+            },
+            {
+                "name": "Mongolian",
+                "keywords": [
+                    "Mongolian Language",
+                    "Cyrillic Script",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Nepali",
+                "keywords": [
+                    "Nepali Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Norwegian",
+                "keywords": [
+                    "Norwegian Grammar",
+                    "Vocabulary",
+                    "Scandinavian Language"
+                ]
+            },
+            {
+                "name": "Pashto",
+                "keywords": [
+                    "Pashto Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Persian",
+                "keywords": [
+                    "Farsi",
+                    "Persian Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Polish",
+                "keywords": [
+                    "Polish Grammar",
+                    "Vocabulary",
+                    "Slavic Language"
+                ]
+            },
+            {
+                "name": "Punjabi",
+                "keywords": [
+                    "Punjabi Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Romanian",
+                "keywords": [
+                    "Romanian Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Samoan",
+                "keywords": [
+                    "Samoan Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Sanskrit",
+                "keywords": [
+                    "Ancient Language",
+                    "Grammar",
+                    "Vocabulary",
+                    "Devanagari"
+                ]
+            },
+            {
+                "name": "Scottish Gaelic",
+                "keywords": [
+                    "Gaelic",
+                    "Pronunciation",
+                    "Grammar"
+                ]
+            },
+            {
+                "name": "Serbian",
+                "keywords": [
+                    "Serbian Grammar",
+                    "Vocabulary",
+                    "Cyrillic Script"
+                ]
+            },
+            {
+                "name": "Sign Language",
+                "keywords": [
+                    "American Sign Language",
+                    "Hand Gestures",
+                    "Visual Language"
+                ]
+            },
+            {
+                "name": "Slovak",
+                "keywords": [
+                    "Slovak Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Slovenian",
+                "keywords": [
+                    "Slovenian Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Somali",
+                "keywords": [
+                    "Somali Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Swahili",
+                "keywords": [
+                    "Swahili Grammar",
+                    "Vocabulary",
+                    "East African Language"
+                ]
+            },
+            {
+                "name": "Swedish",
+                "keywords": [
+                    "Swedish Grammar",
+                    "Vocabulary",
+                    "Scandinavian Language"
+                ]
+            },
+            {
+                "name": "Tagalog",
+                "keywords": [
+                    "Filipino",
+                    "Tagalog Grammar",
+                    "Vocabulary",
+                    "Philippines"
+                ]
+            },
+            {
+                "name": "Tamil",
+                "keywords": [
+                    "Tamil Language",
+                    "South Indian",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Telugu",
+                "keywords": [
+                    "Telugu Language",
+                    "Grammar",
+                    "Vocabulary"
+                ]
+            },
+            {
+                "name": "Thai",
+                "keywords": [
+                    "Thai Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Thai Alphabet",
+                "keywords": [
+                    "Thai Script",
+                    "Writing System",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Turkish",
+                "keywords": [
+                    "Turkish Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Ukrainian",
+                "keywords": [
+                    "Ukrainian Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Urdu",
+                "keywords": [
+                    "Urdu Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Uzbek",
+                "keywords": [
+                    "Uzbek Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Vietnamese",
+                "keywords": [
+                    "Vietnamese Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Welsh",
+                "keywords": [
+                    "Welsh Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Xhosa",
+                "keywords": [
+                    "Xhosa Language",
+                    "Bantu Language",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Yiddish",
+                "keywords": [
+                    "Yiddish Language",
+                    "Grammar",
+                    "Vocabulary",
+                    "Jewish"
+                ]
+            },
+            {
+                "name": "Zulu",
+                "keywords": [
+                    "Zulu Language",
+                    "Bantu Language",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Portuguese",
+                "keywords": [
+                    "Portuguese Grammar",
+                    "Vocabulary",
+                    "Pronunciation"
+                ]
+            },
+            {
+                "name": "Russian",
+                "keywords": [
+                    "Russian Grammar",
+                    "Vocabulary",
+                    "Cyrillic Script"
+                ]
+            },
+            {
+                "name": "Spanish",
+                "keywords": [
+                    "Spanish Grammar",
+                    "Vocabulary",
+                    "Pronunciation",
+                    "Spanish Tenses"
+                ]
+            },
+            {
+                "name": "TOEFL",
+                "keywords": [
+                    "English Proficiency Test",
+                    "TOEFL Exam",
+                    "English Grammar",
+                    "Vocabulary"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Medical & Nursing",
+        "keywords": [
+            "Medicine",
+            "Nursing",
+            "Healthcare",
+            "Anatomy",
+            "Pathology",
+            "Physiology",
+            "Pharmacology",
+            "Dentistry",
+            "Radiology",
+            "Emergency Medicine",
+            "Surgery",
+            "Veterinary Science",
+            "Clinical Practice",
+            "Medical Ethics",
+            "Diagnostics",
+            "Pediatrics",
+            "Gerontology",
+            "Health Informatics",
+            "Nutrition",
+            "Patient Care",
+            "Mental Health",
+            "Pharmacy",
+            "Public Health",
+            "Medical Imaging",
+            "Midwifery",
+            "Physical Therapy",
+            "Occupational Therapy"
+        ],
+        "subjects": [
+            {
+                "name": "Abdomen Anatomy",
+                "keywords": [
+                    "Anatomy",
+                    "Medical Imaging",
+                    "Gross Anatomy",
+                    "Human Body"
+                ]
+            },
+            {
+                "name": "Dental Anatomy",
+                "keywords": [
+                    "Dentistry",
+                    "Teeth",
+                    "Oral Health",
+                    "Anatomy"
+                ]
+            },
+            {
+                "name": "Neuroanatomy",
+                "keywords": [
+                    "Brain",
+                    "Nervous System",
+                    "Anatomy",
+                    "Neuroscience"
+                ]
+            },
+            {
+                "name": "Thorax Anatomy",
+                "keywords": [
+                    "Chest",
+                    "Cardiology",
+                    "Respiratory System",
+                    "Anatomy"
+                ]
+            },
+            {
+                "name": "Cardio-respiratory System",
+                "keywords": [
+                    "Cardiology",
+                    "Respiration",
+                    "Human Body",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Endocrine System",
+                "keywords": [
+                    "Hormones",
+                    "Endocrinology",
+                    "Physiology",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Musculoskeletal System",
+                "keywords": [
+                    "Bones",
+                    "Muscles",
+                    "Physiology",
+                    "Orthopedics"
+                ]
+            },
+            {
+                "name": "Nervous System",
+                "keywords": [
+                    "Neuroscience",
+                    "Physiology",
+                    "Neuroanatomy",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Respiratory System",
+                "keywords": [
+                    "Lungs",
+                    "Pulmonology",
+                    "Physiology",
+                    "Thorax Anatomy"
+                ]
+            },
+            {
+                "name": "Dentistry - General",
+                "keywords": [
+                    "Dental Health",
+                    "Teeth Care",
+                    "Oral Surgery",
+                    "Dentistry"
+                ]
+            },
+            {
+                "name": "Pediatric Dentistry",
+                "keywords": [
+                    "Children",
+                    "Teeth",
+                    "Dental Health",
+                    "Dentistry"
+                ]
+            },
+            {
+                "name": "Pathology",
+                "keywords": [
+                    "Disease",
+                    "Diagnosis",
+                    "Medical Science",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Advanced Pharmacology",
+                "keywords": [
+                    "Drugs",
+                    "Therapeutics",
+                    "Medicine",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Diagnostic Imaging",
+                "keywords": [
+                    "Radiology",
+                    "Ultrasound",
+                    "X-rays",
+                    "Medical Imaging"
+                ]
+            },
+            {
+                "name": "Radiology",
+                "keywords": [
+                    "Imaging",
+                    "Medical Technology",
+                    "Diagnostics",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Emergency Medicine",
+                "keywords": [
+                    "Urgent Care",
+                    "Trauma",
+                    "ER",
+                    "Healthcare"
+                ]
+            },
+            {
+                "name": "Critical Care Nursing",
+                "keywords": [
+                    "Nursing",
+                    "ICU",
+                    "Patient Care",
+                    "Emergency Medicine"
+                ]
+            },
+            {
+                "name": "Community Health Nursing",
+                "keywords": [
+                    "Public Health",
+                    "Community Care",
+                    "Nursing",
+                    "Wellness"
+                ]
+            },
+            {
+                "name": "Surgery",
+                "keywords": [
+                    "Operations",
+                    "Medical Procedures",
+                    "Healthcare",
+                    "Anatomy"
+                ]
+            },
+            {
+                "name": "Veterinary Nursing",
+                "keywords": [
+                    "Animal Care",
+                    "Veterinary Medicine",
+                    "Healthcare",
+                    "Animals"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Military",
+        "keywords": [
+            "Defense",
+            "Army",
+            "Navy"
+        ],
+        "subjects": [
+            "Law Enforcement",
+            "Careers",
+            "History"
+        ]
+    },
+    {
+        "name": "Sciences",
+        "keywords": [
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Earth Sciences",
+            "Life Sciences",
+            "Natural Sciences",
+            "Environmental Science",
+            "Physical Sciences"
+        ],
+        "subjects": [
+            {
+                "name": "Anatomy",
+                "keywords": [
+                    "Human Body",
+                    "Structure",
+                    "Organs",
+                    "Physiology"
+                ]
+            },
+            {
+                "name": "Astronomy",
+                "keywords": [
+                    "Space",
+                    "Stars",
+                    "Planets",
+                    "Cosmology"
+                ]
+            },
+            {
+                "name": "Biochemistry",
+                "keywords": [
+                    "Chemical Processes",
+                    "Biological Molecules",
+                    "Metabolism",
+                    "Enzymes"
+                ]
+            },
+            {
+                "name": "Clinical Biochemistry",
+                "keywords": [
+                    "Laboratory Tests",
+                    "Diagnosis",
+                    "Disease Biomarkers"
+                ]
+            },
+            {
+                "name": "Disease",
+                "keywords": [
+                    "Pathology",
+                    "Infections",
+                    "Epidemiology",
+                    "Public Health"
+                ]
+            },
+            {
+                "name": "Genetics",
+                "keywords": [
+                    "DNA",
+                    "Genes",
+                    "Heredity",
+                    "Chromosomes"
+                ]
+            },
+            {
+                "name": "Genomics",
+                "keywords": [
+                    "Genome Sequencing",
+                    "Gene Expression",
+                    "Bioinformatics"
+                ]
+            },
+            {
+                "name": "Glycolysis",
+                "keywords": [
+                    "Metabolic Pathway",
+                    "Energy Production",
+                    "Glucose Breakdown"
+                ]
+            },
+            {
+                "name": "Molecular Biology",
+                "keywords": [
+                    "Cellular Processes",
+                    "DNA",
+                    "RNA",
+                    "Proteins"
+                ]
+            },
+            {
+                "name": "Nutrition",
+                "keywords": [
+                    "Diet",
+                    "Vitamins",
+                    "Nutrients",
+                    "Metabolism"
+                ]
+            },
+            {
+                "name": "Organic Chemistry",
+                "keywords": [
+                    "Carbon Compounds",
+                    "Reactions",
+                    "Molecules",
+                    "Biological Chemistry"
+                ]
+            },
+            {
+                "name": "Biology",
+                "keywords": [
+                    "Life",
+                    "Organisms",
+                    "Ecology",
+                    "Evolution"
+                ]
+            },
+            {
+                "name": "Periodic Table",
+                "keywords": [
+                    "Elements",
+                    "Atomic Structure",
+                    "Chemical Properties"
+                ]
+            },
+            {
+                "name": "Aging",
+                "keywords": [
+                    "Cellular Aging",
+                    "Senescence",
+                    "Lifespan"
+                ]
+            },
+            {
+                "name": "Amino Acids",
+                "keywords": [
+                    "Protein Building Blocks",
+                    "Biochemistry",
+                    "Peptides"
+                ]
+            },
+            {
+                "name": "Bacteriology",
+                "keywords": [
+                    "Bacteria",
+                    "Microbiology",
+                    "Infections",
+                    "Pathogens"
+                ]
+            },
+            {
+                "name": "Cell Structure",
+                "keywords": [
+                    "Cell Membrane",
+                    "Organelles",
+                    "Cytoskeleton"
+                ]
+            },
+            {
+                "name": "Cellular Biology",
+                "keywords": [
+                    "Cell Function",
+                    "Division",
+                    "Energy Production"
+                ]
+            },
+            {
+                "name": "Endocrinology",
+                "keywords": [
+                    "Hormones",
+                    "Glands",
+                    "Metabolism",
+                    "Homeostasis"
+                ]
+            },
+            {
+                "name": "Histology",
+                "keywords": [
+                    "Tissues",
+                    "Microscopy",
+                    "Cell Composition"
+                ]
+            },
+            {
+                "name": "Immunology",
+                "keywords": [
+                    "Immune System",
+                    "Pathogens",
+                    "Vaccines"
+                ]
+            },
+            {
+                "name": "Microscopy",
+                "keywords": [
+                    "Microscopes",
+                    "Imaging",
+                    "Cell Observation"
+                ]
+            },
+            {
+                "name": "Neurobiology",
+                "keywords": [
+                    "Nervous System",
+                    "Brain",
+                    "Neurons",
+                    "Synapses"
+                ]
+            },
+            {
+                "name": "Neuroscience",
+                "keywords": [
+                    "Cognition",
+                    "Neurochemistry",
+                    "Behavior"
+                ]
+            },
+            {
+                "name": "Osmosis",
+                "keywords": [
+                    "Water Movement",
+                    "Cell Membranes",
+                    "Diffusion"
+                ]
+            },
+            {
+                "name": "Parasitology",
+                "keywords": [
+                    "Parasites",
+                    "Hosts",
+                    "Diseases"
+                ]
+            },
+            {
+                "name": "Physiology",
+                "keywords": [
+                    "Organ Systems",
+                    "Functions",
+                    "Homeostasis"
+                ]
+            },
+            {
+                "name": "Reproductive Biology",
+                "keywords": [
+                    "Reproduction",
+                    "Gametes",
+                    "Fertilization"
+                ]
+            },
+            {
+                "name": "Earth Science",
+                "keywords": [
+                    "Geology",
+                    "Meteorology",
+                    "Oceanography",
+                    "Soil"
+                ]
+            },
+            {
+                "name": "Ecology",
+                "keywords": [
+                    "Ecosystems",
+                    "Biodiversity",
+                    "Conservation"
+                ]
+            },
+            {
+                "name": "Marine Biology",
+                "keywords": [
+                    "Ocean Life",
+                    "Marine Ecosystems",
+                    "Aquatic Organisms"
+                ]
+            },
+            {
+                "name": "Botany",
+                "keywords": [
+                    "Plants",
+                    "Photosynthesis",
+                    "Plant Taxonomy"
+                ]
+            },
+            {
+                "name": "Zoology",
+                "keywords": [
+                    "Animals",
+                    "Behavior",
+                    "Species",
+                    "Evolution"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Business and Finance",
+        "subjects": [
+            {
+                "name": "Accounting",
+                "keywords": [
+                    "Financial Accounting",
+                    "Managerial Accounting",
+                    "Cost Accounting",
+                    "Audit",
+                    "Bookkeeping",
+                    "Taxation",
+                    "Income Tax",
+                    "Financial Statements",
+                    "Public Finance",
+                    "Fraud",
+                    "Enrolled Agent",
+                    "Accounting Theory",
+                    "Audit Sampling",
+                    "Federal Income Tax"
+                ]
+            },
+            {
+                "name": "Economics",
+                "keywords": [
+                    "Microeconomics",
+                    "Macroeconomics",
+                    "Behavioral Economics",
+                    "Econometrics",
+                    "Economic Development",
+                    "Environmental Economics",
+                    "Game Theory",
+                    "Globalization",
+                    "Managerial Economics",
+                    "Principles of Economics"
+                ]
+            },
+            {
+                "name": "Finance",
+                "keywords": [
+                    "Corporate Finance",
+                    "Investment Analysis",
+                    "Investment Banking",
+                    "Capital Markets",
+                    "Personal Finance",
+                    "International Finance",
+                    "Financial Markets",
+                    "Private Equity",
+                    "Financial Literacy",
+                    "Fixed Income",
+                    "Certified Financial Planner",
+                    "Real Estate Finance"
+                ]
+            },
+            {
+                "name": "Insurance",
+                "keywords": [
+                    "Life & Health Insurance",
+                    "Risk Management",
+                    "Insurance Principles",
+                    "Underwriting",
+                    "Claims Management",
+                    "Health Insurance",
+                    "Property & Casualty Insurance"
+                ]
+            },
+            {
+                "name": "Management",
+                "keywords": [
+                    "Business Management",
+                    "Human Resource Management",
+                    "Operations Management",
+                    "Strategic Management",
+                    "Organizational Behavior",
+                    "Management 101",
+                    "Project Management",
+                    "Business Administration",
+                    "Facilities Management",
+                    "Healthcare Management",
+                    "Leadership",
+                    "Supervisory Practices"
+                ]
+            },
+            {
+                "name": "Marketing",
+                "keywords": [
+                    "B2B Marketing",
+                    "Consumer Behavior",
+                    "Digital Marketing",
+                    "Global Marketing",
+                    "Neuromarketing",
+                    "International Marketing",
+                    "Social Marketing",
+                    "Sales & Marketing",
+                    "Principles of Marketing",
+                    "Service Marketing",
+                    "Strategic Marketing",
+                    "Marketing Research"
+                ]
+            },
+            {
+                "name": "Real Estate",
+                "keywords": [
+                    "Real Estate Principles",
+                    "Real Estate Practice",
+                    "Real Estate Appraisal",
+                    "Real Estate Law",
+                    "Real Estate Math",
+                    "Real Estate Exam",
+                    "Real Estate Finance",
+                    "Real Estate Post-Licensing",
+                    "Real Estate Agent",
+                    "Real Estate Broker",
+                    "Real Estate Licensing",
+                    "Real Estate Property Management",
+                    "Real Estate Markets",
+                    "Real Estate Investment",
+                    "Arizona Real Estate",
+                    "California Real Estate",
+                    "Florida Real Estate",
+                    "New York Real Estate"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Humanities & Social Studies",
+        "keywords": [
+            "Culture",
+            "Society",
+            "History"
+        ],
+        "subjects": [
+            "History",
+            "Social Science",
+            "Fine Arts"
+        ]
+    },
+    {
+        "name": "Health & Fitness",
+        "keywords": [
+            "Wellness",
+            "Exercise",
+            "Nutrition"
+        ],
+        "subjects": [
+            "Medical",
+            "Food & Beverage",
+            "Science"
+        ]
+    },
+    {
+        "name": "Arts",
+        "subjects": [
+            {
+                "name": "Art",
+                "keywords": [
+                    "Painting",
+                    "Sculpture",
+                    "Visual Arts",
+                    "Design",
+                    "Creativity"
+                ]
+            },
+            {
+                "name": "Art History",
+                "keywords": [
+                    "Art Movements",
+                    "Renaissance",
+                    "Modern Art",
+                    "Artists",
+                    "Masterpieces"
+                ]
+            },
+            {
+                "name": "Dance",
+                "keywords": [
+                    "Ballet",
+                    "Contemporary Dance",
+                    "Choreography",
+                    "Movement",
+                    "Performing Arts"
+                ]
+            },
+            {
+                "name": "Music",
+                "keywords": [
+                    "Music Theory",
+                    "Instruments",
+                    "Composing",
+                    "Genres",
+                    "Musical Scales"
+                ]
+            },
+            {
+                "name": "Circle of Fifths",
+                "keywords": [
+                    "Key Relationships",
+                    "Music Theory",
+                    "Intervals"
+                ]
+            },
+            {
+                "name": "Guitar",
+                "keywords": [
+                    "Strumming",
+                    "Chords",
+                    "Guitar Technique"
+                ]
+            },
+            {
+                "name": "Guitar Chords",
+                "keywords": [
+                    "Chord Progressions",
+                    "Fingering",
+                    "Music Theory"
+                ]
+            },
+            {
+                "name": "Jazz",
+                "keywords": [
+                    "Improvisation",
+                    "Jazz History",
+                    "Chords",
+                    "Rhythm"
+                ]
+            },
+            {
+                "name": "Key Signatures",
+                "keywords": [
+                    "Scales",
+                    "Sharps",
+                    "Flats",
+                    "Music Theory"
+                ]
+            },
+            {
+                "name": "Music History",
+                "keywords": [
+                    "Classical Music",
+                    "Composers",
+                    "Era Analysis",
+                    "Genres"
+                ]
+            },
+            {
+                "name": "Music Theory for Kids",
+                "keywords": [
+                    "Basic Music Theory",
+                    "Rhythm",
+                    "Melody"
+                ]
+            },
+            {
+                "name": "Music Production",
+                "keywords": [
+                    "Recording",
+                    "Mixing",
+                    "Digital Audio Workstation"
+                ]
+            },
+            {
+                "name": "Music Terms",
+                "keywords": [
+                    "Musical Vocabulary",
+                    "Terminology",
+                    "Symbols"
+                ]
+            },
+            {
+                "name": "Music Theory",
+                "keywords": [
+                    "Harmony",
+                    "Chord Progressions",
+                    "Scales"
+                ]
+            },
+            {
+                "name": "Piano",
+                "keywords": [
+                    "Keyboard",
+                    "Piano Chords",
+                    "Sheet Music",
+                    "Piano Techniques"
+                ]
+            },
+            {
+                "name": "Other Fine Arts",
+                "keywords": [
+                    "Fine Arts",
+                    "Arts Appreciation",
+                    "Art Forms",
+                    "Creativity"
+                ]
+            },
+            {
+                "name": "American Art",
+                "keywords": [
+                    "Artists",
+                    "Art Movements",
+                    "US History"
+                ]
+            },
+            {
+                "name": "Dance Appreciation",
+                "keywords": [
+                    "Dance Styles",
+                    "History of Dance",
+                    "Dance Culture"
+                ]
+            },
+            {
+                "name": "Dance History",
+                "keywords": [
+                    "Ballet",
+                    "Modern Dance",
+                    "Choreographers"
+                ]
+            },
+            {
+                "name": "Film Studies",
+                "keywords": [
+                    "Film Analysis",
+                    "Directors",
+                    "Genres",
+                    "Cinematography"
+                ]
+            },
+            {
+                "name": "Gothic Art",
+                "keywords": [
+                    "Architecture",
+                    "Medieval Art",
+                    "Cathedrals"
+                ]
+            },
+            {
+                "name": "Music Appreciation",
+                "keywords": [
+                    "Listening Skills",
+                    "Genres",
+                    "History of Music"
+                ]
+            },
+            {
+                "name": "Photography",
+                "keywords": [
+                    "Camera Techniques",
+                    "Composition",
+                    "Photo Editing"
+                ]
+            },
+            {
+                "name": "Renaissance Art",
+                "keywords": [
+                    "Da Vinci",
+                    "Michelangelo",
+                    "Renaissance Period"
+                ]
+            },
+            {
+                "name": "Theater",
+                "keywords": [
+                    "Acting",
+                    "Performance",
+                    "Drama",
+                    "Stage Production"
+                ]
+            },
+            {
+                "name": "Theater Appreciation",
+                "keywords": [
+                    "Playwriting",
+                    "Theater History",
+                    "Drama Analysis"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hospitality & Food & Beverages",
+        "subjects": [
+            {
+                "name": "Bartending",
+                "keywords": [
+                    "Cocktails",
+                    "Mixology",
+                    "Drink Preparation",
+                    "Customer Service",
+                    "Alcoholic Beverages"
+                ]
+            },
+            {
+                "name": "Beer",
+                "keywords": [
+                    "Brewing",
+                    "Craft Beer",
+                    "Beer Styles",
+                    "Beer Tasting",
+                    "Beer Pairing"
+                ]
+            },
+            {
+                "name": "Cocktails",
+                "keywords": [
+                    "Cocktail Recipes",
+                    "Mixology",
+                    "Bar Tools",
+                    "Drink Garnishing",
+                    "Classic Cocktails"
+                ]
+            },
+            {
+                "name": "Spirits",
+                "keywords": [
+                    "Whiskey",
+                    "Vodka",
+                    "Rum",
+                    "Gin",
+                    "Tequila",
+                    "Distillation"
+                ]
+            },
+            {
+                "name": "Cooking",
+                "keywords": [
+                    "Culinary Techniques",
+                    "Food Preparation",
+                    "Knife Skills",
+                    "Kitchen Safety",
+                    "Meal Planning"
+                ]
+            },
+            {
+                "name": "Culinary Arts",
+                "keywords": [
+                    "Gourmet Cooking",
+                    "Baking",
+                    "Advanced Techniques",
+                    "French Cuisine",
+                    "International Cuisine"
+                ]
+            },
+            {
+                "name": "Food & Nutrition",
+                "keywords": [
+                    "Balanced Diet",
+                    "Nutrient Analysis",
+                    "Food Components",
+                    "Health Nutrition",
+                    "Dietary Requirements"
+                ]
+            },
+            {
+                "name": "Food Chemistry",
+                "keywords": [
+                    "Chemical Reactions",
+                    "Cooking Chemistry",
+                    "Food Molecules",
+                    "Food Science",
+                    "Flavor Development"
+                ]
+            },
+            {
+                "name": "Food Microbiology",
+                "keywords": [
+                    "Microorganisms",
+                    "Fermentation",
+                    "Food Preservation",
+                    "Foodborne Pathogens",
+                    "Food Safety"
+                ]
+            },
+            {
+                "name": "Food Prep & Nutrition",
+                "keywords": [
+                    "Meal Preparation",
+                    "Nutritional Benefits",
+                    "Healthy Eating",
+                    "Food Portioning",
+                    "Nutrition for Health"
+                ]
+            },
+            {
+                "name": "Food Processing",
+                "keywords": [
+                    "Food Manufacturing",
+                    "Preservation Methods",
+                    "Packaging",
+                    "Food Engineering",
+                    "Processing Techniques"
+                ]
+            },
+            {
+                "name": "Food Safety",
+                "keywords": [
+                    "Sanitation",
+                    "Foodborne Illness",
+                    "HACCP",
+                    "Food Storage",
+                    "Food Regulations"
+                ]
+            },
+            {
+                "name": "Food Science",
+                "keywords": [
+                    "Food Structure",
+                    "Food Technology",
+                    "Nutrition Science",
+                    "Flavor Chemistry",
+                    "Food Testing"
+                ]
+            },
+            {
+                "name": "Foodservice Management",
+                "keywords": [
+                    "Restaurant Operations",
+                    "Customer Service",
+                    "Menu Planning",
+                    "Staff Management",
+                    "Inventory Control"
+                ]
+            },
+            {
+                "name": "Gastronomy",
+                "keywords": [
+                    "Molecular Gastronomy",
+                    "Food Trends",
+                    "Fine Dining",
+                    "Cuisine Innovation",
+                    "Food Styling"
+                ]
+            },
+            {
+                "name": "Hospitality",
+                "keywords": [
+                    "Hotel Management",
+                    "Guest Services",
+                    "Tourism",
+                    "Event Planning",
+                    "Accommodation"
+                ]
+            },
+            {
+                "name": "Nutrition",
+                "keywords": [
+                    "Health Diet",
+                    "Nutritional Science",
+                    "Vitamins & Minerals",
+                    "Dietary Planning",
+                    "Wellness"
+                ]
+            },
+            {
+                "name": "Advanced Sommelier",
+                "keywords": [
+                    "Wine Tasting",
+                    "Wine Pairing",
+                    "Wine Regions",
+                    "Sommelier Skills",
+                    "Advanced Wine Knowledge"
+                ]
+            },
+            {
+                "name": "Certified Sommelier",
+                "keywords": [
+                    "Wine Certification",
+                    "Wine Service",
+                    "Tasting Techniques",
+                    "Sommelier Exams",
+                    "Wine Knowledge"
+                ]
+            },
+            {
+                "name": "CMS Level 1",
+                "keywords": [
+                    "Wine Fundamentals",
+                    "Service Skills",
+                    "Wine Regions",
+                    "Sommelier Certification"
+                ]
+            },
+            {
+                "name": "CMS Level 2",
+                "keywords": [
+                    "Intermediate Wine Knowledge",
+                    "Wine Tasting",
+                    "Food Pairing",
+                    "Sommelier Skills"
+                ]
+            },
+            {
+                "name": "Court of Master Sommelier",
+                "keywords": [
+                    "Wine Expertise",
+                    "Wine Certification",
+                    "Sommelier Career",
+                    "Master Sommelier",
+                    "Wine Service"
+                ]
+            },
+            {
+                "name": "French Wine",
+                "keywords": [
+                    "Wine Regions",
+                    "French Wine Styles",
+                    "Wine Tasting",
+                    "Wine Pairing",
+                    "French Vineyards"
+                ]
+            },
+            {
+                "name": "Introductory Sommelier",
+                "keywords": [
+                    "Wine Basics",
+                    "Wine Knowledge",
+                    "Tasting",
+                    "Wine Service",
+                    "Sommelier Introduction"
+                ]
+            },
+            {
+                "name": "Italian Wine",
+                "keywords": [
+                    "Italian Vineyards",
+                    "Wine Regions",
+                    "Wine Varieties",
+                    "Italian Wine Tasting",
+                    "Food Pairing"
+                ]
+            },
+            {
+                "name": "Wine Appreciation",
+                "keywords": [
+                    "Wine Tasting",
+                    "Wine Regions",
+                    "Wine Education",
+                    "Food Pairing",
+                    "Wine Varieties"
+                ]
+            },
+            {
+                "name": "Master Sommelier",
+                "keywords": [
+                    "Advanced Wine Knowledge",
+                    "Wine Certification",
+                    "Wine Tasting",
+                    "Food Pairing",
+                    "Sommelier Mastery"
+                ]
+            },
+            {
+                "name": "Mixology",
+                "keywords": [
+                    "Cocktail Creation",
+                    "Bartender Techniques",
+                    "Drink Pairing",
+                    "Cocktail Ingredients",
+                    "Alcoholic Beverages"
+                ]
+            },
+            {
+                "name": "Sommelier",
+                "keywords": [
+                    "Wine Service",
+                    "Wine Knowledge",
+                    "Wine Pairing",
+                    "Sommelier Techniques",
+                    "Wine Tasting"
+                ]
+            },
+            {
+                "name": "Wine - Other",
+                "keywords": [
+                    "Wine Types",
+                    "Wine Styles",
+                    "Vineyard Practices",
+                    "Wine Production",
+                    "Wine Pairing"
+                ]
+            },
+            {
+                "name": "Wine Regions",
+                "keywords": [
+                    "Wine Areas",
+                    "Geographic Wines",
+                    "Grape Varieties",
+                    "Wine Styles",
+                    "Terroir"
+                ]
+            },
+            {
+                "name": "WSET Level 4 D1 Wine",
+                "keywords": [
+                    "Wine Education",
+                    "Advanced Wine Knowledge",
+                    "Sommelier Certification",
+                    "Wine Styles"
+                ]
+            },
+            {
+                "name": "WSET Level 4 D2 Wine",
+                "keywords": [
+                    "Wine Testing",
+                    "Wine Education",
+                    "Advanced Wine Studies",
+                    "Sommelier Skills"
+                ]
+            },
+            {
+                "name": "WSET Level 4 D3 Wine",
+                "keywords": [
+                    "Wine Tasting",
+                    "Sommelier Mastery",
+                    "Advanced Wine Knowledge",
+                    "Wine Certification"
+                ]
+            },
+            {
+                "name": "WSET Level 4 D4 Wine",
+                "keywords": [
+                    "Wine Certification",
+                    "Advanced Sommelier",
+                    "Wine Regions",
+                    "Wine Tasting"
+                ]
+            },
+            {
+                "name": "WSET Level 4 D5 Wine",
+                "keywords": [
+                    "Master Sommelier",
+                    "Advanced Wine Studies",
+                    "Wine Service",
+                    "Wine Regions"
+                ]
+            },
+            {
+                "name": "WSET Level 1 Spirits",
+                "keywords": [
+                    "Introduction to Spirits",
+                    "Spirit Tasting",
+                    "Basic Spirits Knowledge",
+                    "Mixology"
+                ]
+            },
+            {
+                "name": "WSET Level 2 Spirits",
+                "keywords": [
+                    "Intermediate Spirits Knowledge",
+                    "Tasting",
+                    "Distillation",
+                    "Spirit Styles"
+                ]
+            },
+            {
+                "name": "WSET Level 3 Spirits",
+                "keywords": [
+                    "Advanced Spirits Knowledge",
+                    "Spirits Production",
+                    "Tasting",
+                    "Spirit Pairing"
+                ]
+            },
+            {
+                "name": "WSET Level 1 Wine",
+                "keywords": [
+                    "Introductory Wine Knowledge",
+                    "Wine Tasting",
+                    "Wine Service",
+                    "Basic Wine Regions"
+                ]
+            },
+            {
+                "name": "WSET Level 2 Wine",
+                "keywords": [
+                    "Intermediate Wine Certification",
+                    "Wine Knowledge",
+                    "Wine Pairing",
+                    "Wine Regions"
+                ]
+            },
+            {
+                "name": "WSET Level 3 Wine",
+                "keywords": [
+                    "Advanced Wine Knowledge",
+                    "Wine Regions",
+                    "Sommelier Certification",
+                    "Wine Tasting"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Random Knowledge",
+        "keywords": [
+            "Trivia",
+            "General Knowledge",
+            "Miscellaneous"
+        ],
+        "subjects": [
+            "Other",
+            "Literature",
+            "Geography"
+        ]
+    }
+]

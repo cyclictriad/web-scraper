@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Business",
+    "url": "https://www.studystack.com/Business",
+    "l2": [
+      {
+        "name": "Accounting",
+        "url": "https://www.studystack.com/Accounting"
+      },
+      {
+        "name": "Economics",
+        "url": "https://www.studystack.com/economics"
+      },
+      {
+        "name": "Finance",
+        "url": "https://www.studystack.com/Finance"
+      },
+      {
+        "name": "Insurance",
+        "url": "https://www.studystack.com/insurance"
+      },
+      {
+        "name": "Management",
+        "url": "https://www.studystack.com/Management"
+      },
+      {
+        "name": "Marketing",
+        "url": "https://www.studystack.com/Marketing"
+      },
+      {
+        "name": "Real Estate",
+        "url": "https://www.studystack.com/RealEstate"
+      }
+    ]
+  },
+  {
+    "name": "Geography",
+    "url": "https://www.studystack.com/Geography",
+    "l2": [
+      {
+        "name": "AP Human Geography",
+        "url": "https://www.studystack.com/APHumanGeography"
+      }
+    ]
+  },
+  {
+    "name": "History",
+    "url": "https://www.studystack.com/History",
+    "l2": [
+      {
+        "name": "American Government",
+        "url": "https://www.studystack.com/AmericanGovernment"
+      },
+      {
+        "name": "AP Comparative Gov.",
+        "url": "https://www.studystack.com/APComparativeGov"
+      },
+      {
+        "name": "European History",
+        "url": "https://www.studystack.com/EuropeanHistory"
+      },
+      {
+        "name": "Religion",
+        "url": "https://www.studystack.com/Religion"
+      },
+      {
+        "name": "U.S. History",
+        "url": "https://www.studystack.com/USHistory"
+      },
+      {
+        "name": "World History",
+        "url": "https://www.studystack.com/WorldHistory"
+      }
+    ]
+  },
+  {
+    "name": "Languages",
+    "url": "https://www.studystack.com/Languages",
+    "l2": [
+      {
+        "name": "Arabic",
+        "url": "https://www.studystack.com/arabic"
+      },
+      {
+        "name": "Bengali",
+        "url": "https://www.studystack.com/Bengali"
+      },
+      {
+        "name": "Bisaya",
+        "url": "https://www.studystack.com/Bisaya"
+      },
+      {
+        "name": "Cantonese",
+        "url": "https://www.studystack.com/Cantonese"
+      },
+      {
+        "name": "Chinese",
+        "url": "https://www.studystack.com/Chinese"
+      },
+      {
+        "name": "Czech",
+        "url": "https://www.studystack.com/Czech"
+      },
+      {
+        "name": "Dene",
+        "url": "https://www.studystack.com/Dene"
+      },
+      {
+        "name": "Dutch",
+        "url": "https://www.studystack.com/dutch"
+      },
+      {
+        "name": "English Verbs",
+        "url": "https://www.studystack.com/EnglishVerbs"
+      },
+      {
+        "name": "English Vocabulary",
+        "url": "https://www.studystack.com/EnglishVocab"
+      },
+      {
+        "name": "Esperanto",
+        "url": "https://www.studystack.com/Esperanto"
+      },
+      {
+        "name": "Finnish",
+        "url": "https://www.studystack.com/Finnish"
+      },
+      {
+        "name": "French",
+        "url": "https://www.studystack.com/French"
+      },
+      {
+        "name": "German",
+        "url": "https://www.studystack.com/German"
+      },
+      {
+        "name": "Greek",
+        "url": "https://www.studystack.com/Greek"
+      },
+      {
+        "name": "Hebrew",
+        "url": "https://www.studystack.com/hebrew"
+      },
+      {
+        "name": "Hindi",
+        "url": "https://www.studystack.com/Hindi"
+      },
+      {
+        "name": "Hungarian",
+        "url": "https://www.studystack.com/Hungarian"
+      },
+      {
+        "name": "Indonesian",
+        "url": "https://www.studystack.com/Indonesian"
+      },
+      {
+        "name": "Irish",
+        "url": "https://www.studystack.com/Irish"
+      },
+      {
+        "name": "Italian",
+        "url": "https://www.studystack.com/Italian"
+      },
+      {
+        "name": "Japanese",
+        "url": "https://www.studystack.com/Japanese"
+      },
+      {
+        "name": "Kazakh",
+        "url": "https://www.studystack.com/Kazakh"
+      },
+      {
+        "name": "Korean",
+        "url": "https://www.studystack.com/Korean"
+      },
+      {
+        "name": "Latin",
+        "url": "https://www.studystack.com/Latin"
+      },
+      {
+        "name": "Linguistics",
+        "url": "https://www.studystack.com/linguistics"
+      },
+      {
+        "name": "Literature",
+        "url": "https://www.studystack.com/Literature"
+      },
+      {
+        "name": "Manx",
+        "url": "https://www.studystack.com/Manx"
+      },
+      {
+        "name": "Polish",
+        "url": "https://www.studystack.com/Polish"
+      },
+      {
+        "name": "Portuguese",
+        "url": "https://www.studystack.com/Portuguese"
+      },
+      {
+        "name": "Reading",
+        "url": "https://www.studystack.com/Reading"
+      },
+      {
+        "name": "Russian",
+        "url": "https://www.studystack.com/Russian"
+      },
+      {
+        "name": "Sanskrit",
+        "url": "https://www.studystack.com/Sanskrit"
+      },
+      {
+        "name": "Serbian",
+        "url": "https://www.studystack.com/Serbian"
+      },
+      {
+        "name": "Shoshone",
+        "url": "https://www.studystack.com/Shoshone"
+      },
+      {
+        "name": "Slovak",
+        "url": "https://www.studystack.com/Slovak"
+      },
+      {
+        "name": "Spanish",
+        "url": "https://www.studystack.com/Spanish"
+      },
+      {
+        "name": "Swahili",
+        "url": "https://www.studystack.com/Swahili"
+      },
+      {
+        "name": "Swedish",
+        "url": "https://www.studystack.com/swedish"
+      },
+      {
+        "name": "Turkish",
+        "url": "https://www.studystack.com/Turkish"
+      },
+      {
+        "name": "Ukrainian",
+        "url": "https://www.studystack.com/Ukrainian"
+      },
+      {
+        "name": "Welsh",
+        "url": "https://www.studystack.com/Welsh"
+      },
+      {
+        "name": "Writing",
+        "url": "https://www.studystack.com/writing"
+      },
+      {
+        "name": "Yiddish",
+        "url": "https://www.studystack.com/Yiddish"
+      }
+    ]
+  },
+  {
+    "name": "Math",
+    "url": "https://www.studystack.com/Math"
+  },
+  {
+    "name": "Medical",
+    "url": "https://www.studystack.com/Medical",
+    "l2": [
+      {
+        "name": "Acupuncture",
+        "url": "https://www.studystack.com/Acupuncture"
+      },
+      {
+        "name": "Anatomy",
+        "url": "https://www.studystack.com/Anatomy"
+      },
+      {
+        "name": "Bacteriology",
+        "url": "https://www.studystack.com/Bacteriology"
+      },
+      {
+        "name": "Biochemistry",
+        "url": "https://www.studystack.com/Biochemistry"
+      },
+      {
+        "name": "Chiropractic",
+        "url": "https://www.studystack.com/Chiropractic"
+      },
+      {
+        "name": "Clinical Skills",
+        "url": "https://www.studystack.com/ClinicalSkills"
+      },
+      {
+        "name": "Dentistry",
+        "url": "https://www.studystack.com/dentistry"
+      },
+      {
+        "name": "EEG",
+        "url": "https://www.studystack.com/EEG"
+      },
+      {
+        "name": "Genetics",
+        "url": "https://www.studystack.com/Genetics"
+      },
+      {
+        "name": "Health & Social Care",
+        "url": "https://www.studystack.com/HealthCare"
+      },
+      {
+        "name": "HealthInfoTech",
+        "url": "https://www.studystack.com/HealthInfoTech"
+      },
+      {
+        "name": "Histology",
+        "url": "https://www.studystack.com/Histology"
+      },
+      {
+        "name": "Laboratory Science",
+        "url": "https://www.studystack.com/LaboratoryScience"
+      },
+      {
+        "name": "Massage Therapy",
+        "url": "https://www.studystack.com/MassageTherapy"
+      },
+      {
+        "name": "Midwifery",
+        "url": "https://www.studystack.com/midwifery"
+      },
+      {
+        "name": "Neuroscience",
+        "url": "https://www.studystack.com/Neuroscience"
+      },
+      {
+        "name": "Nursing",
+        "url": "https://www.studystack.com/Nursing"
+      },
+      {
+        "name": "Occupational Therapy",
+        "url": "https://www.studystack.com/OccupationalTherapy"
+      },
+      {
+        "name": "Osteopathic Principles",
+        "url": "https://www.studystack.com/OsteopathicPrinciples"
+      },
+      {
+        "name": "Paramedic/EMT",
+        "url": "https://www.studystack.com/ParamedicEMT"
+      },
+      {
+        "name": "Pathology",
+        "url": "https://www.studystack.com/Pathology"
+      },
+      {
+        "name": "Pharmacology",
+        "url": "https://www.studystack.com/Pharmacology"
+      },
+      {
+        "name": "Phlebotomy",
+        "url": "https://www.studystack.com/Phlebotomy"
+      },
+      {
+        "name": "Physical Therapy",
+        "url": "https://www.studystack.com/PhysicalTherapy"
+      },
+      {
+        "name": "Physiology",
+        "url": "https://www.studystack.com/Physiology"
+      },
+      {
+        "name": "Psychology",
+        "url": "https://www.studystack.com/Psychology"
+      },
+      {
+        "name": "Radiation Therapy",
+        "url": "https://www.studystack.com/RadiationTherapy"
+      },
+      {
+        "name": "Radiology",
+        "url": "https://www.studystack.com/Radiology"
+      },
+      {
+        "name": "Respiratory Therapy",
+        "url": "https://www.studystack.com/RespiratoryTherapy"
+      },
+      {
+        "name": "Sonography",
+        "url": "https://www.studystack.com/sonography"
+      },
+      {
+        "name": "Speech Therapy",
+        "url": "https://www.studystack.com/SpeechTherapy"
+      },
+      {
+        "name": "Sports Medicine",
+        "url": "https://www.studystack.com/SportsMedicine"
+      },
+      {
+        "name": "Surgery",
+        "url": "https://www.studystack.com/surgery"
+      },
+      {
+        "name": "Veterinary",
+        "url": "https://www.studystack.com/Veterinary"
+      }
+    ]
+  },
+  {
+    "name": "Science",
+    "url": "https://www.studystack.com/Science",
+    "l2": [
+      {
+        "name": "Anthropology",
+        "url": "https://www.studystack.com/anthropology"
+      },
+      {
+        "name": "Biology",
+        "url": "https://www.studystack.com/Biology"
+      },
+      {
+        "name": "Chemistry",
+        "url": "https://www.studystack.com/Chemistry"
+      },
+      {
+        "name": "Earth Science",
+        "url": "https://www.studystack.com/EarthScience"
+      },
+      {
+        "name": "Ecology",
+        "url": "https://www.studystack.com/Ecology"
+      },
+      {
+        "name": "Engineering",
+        "url": "https://www.studystack.com/Engineering"
+      },
+      {
+        "name": "Life Science",
+        "url": "https://www.studystack.com/LifeScience"
+      },
+      {
+        "name": "Physical Science",
+        "url": "https://www.studystack.com/PhysicalScience"
+      },
+      {
+        "name": "Physics",
+        "url": "https://www.studystack.com/Physics"
+      }
+    ]
+  },
+  {
+    "name": "Standardized Tests",
+    "url": "https://www.studystack.com/StandardizedTests",
+    "l2": [
+      {
+        "name": "ACT",
+        "url": "https://www.studystack.com/ACT"
+      },
+      {
+        "name": "ASVAB",
+        "url": "https://www.studystack.com/ASVAB"
+      },
+      {
+        "name": "CPS/CAP",
+        "url": "https://www.studystack.com/CPSCAP"
+      },
+      {
+        "name": "DAT",
+        "url": "https://www.studystack.com/DAT"
+      },
+      {
+        "name": "GMAT",
+        "url": "https://www.studystack.com/GMAT"
+      },
+      {
+        "name": "GRE",
+        "url": "https://www.studystack.com/GRE"
+      },
+      {
+        "name": "LSAT",
+        "url": "https://www.studystack.com/LSAT"
+      },
+      {
+        "name": "MCAT",
+        "url": "https://www.studystack.com/MCAT"
+      },
+      {
+        "name": "RICA",
+        "url": "https://www.studystack.com/RICA"
+      },
+      {
+        "name": "SAT",
+        "url": "https://www.studystack.com/SAT"
+      },
+      {
+        "name": "TOEFL",
+        "url": "https://www.studystack.com/TOEFL"
+      },
+      {
+        "name": "TOEIC",
+        "url": "https://www.studystack.com/TOEIC"
+      },
+      {
+        "name": "USMLE",
+        "url": "https://www.studystack.com/USMLE"
+      }
+    ]
+  }
+]
